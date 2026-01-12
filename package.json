@@ -1,0 +1,17 @@
+{
+  "name": "com.simlabs.quickoutline",
+  "displayName": "Quick Outline",
+  "version": "1.0.0",
+  "unity": "6000.2",
+  "description": "Fast outline/highlight effect for MeshRenderers, extracted as a local package in the NeuralSystemSimLab project.",
+  "keywords": [
+    "outline",
+    "highlight",
+    "rendering"
+  ],
+  "category": "Rendering",
+  "author": {
+    "name": "Tanmay Kaushik"
+  },
+  "dependencies": {}
+}
